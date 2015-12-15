@@ -1,0 +1,9 @@
+li a:visited, li a:active, li a:link {
+	color: green;
+}
+li a:hover{
+	color: red;
+}
+body {
+	background: white url("images/background.jpg") no-repeat fixed right;
+}
